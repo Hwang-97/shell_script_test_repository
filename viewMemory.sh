@@ -1,12 +1,12 @@
 
-hn=`hostname -f`
+hn=`hostname`
 
 while [ 1 ] 
 do
 	echo "============ START ============"
+	echo "[ $hn ]"
 	echo ""
-	echo ""
-	echo sudo | free -m
+	echo sudo | free -m | awk '{if($1=="Mem:" || $1=="total") print $0}'
 	echo ""
 	echo "============= END ============="
         echo ""
