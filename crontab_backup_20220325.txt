@@ -1,0 +1,10 @@
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+#* * * * * <username> command(s)
+0,30 * * * * /home/opc/test/viewMemory.sh 3 32

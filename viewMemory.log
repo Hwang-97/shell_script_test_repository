@@ -1,6 +1,117 @@
-[22-03-24 14:43:36] viewMemory.sh started.
-[22-03-24 14:43:36] Normal operation
-[22-03-24 14:43:39] Normal operation
-[22-03-24 14:43:42] Normal operation
-[22-03-24 14:43:45] Normal operation
-[22-03-24 14:43:48] Normal operation
+
+##############################################################
+
+[22-03-24 15:28:07] viewMemory.sh started.
+
+[22-03-24 15:28:07] [1] Normal operation
+[22-03-24 15:28:10] [2] using 32% Excess
+[22-03-24 15:28:13] [3] using 32% Excess
+[22-03-24 15:28:16] [4] using 32% Excess
+[22-03-24 15:28:19] [5] using 32% Excess
+[22-03-24 15:28:22] [6] using 32% Excess
+[22-03-24 15:28:25] [7] using 32% Excess
+[22-03-24 15:28:28] [8] using 32% Excess
+[22-03-24 15:28:31] [9] using 32% Excess
+[22-03-24 15:28:34] [10] using 32% Excess
+[22-03-24 15:28:37] [11] using 32% Excess
+[22-03-24 15:28:40] [12] using 32% Excess
+[22-03-24 15:28:43] [13] using 32% Excess
+[22-03-24 15:28:47] [14] using 32% Excess
+[22-03-24 15:28:50] [15] using 32% Excess
+[22-03-24 15:28:53] [16] Normal operation
+[22-03-24 15:28:56] [17] Normal operation
+[22-03-24 15:28:59] [18] Normal operation
+[22-03-24 15:29:02] [19] Normal operation
+[22-03-24 15:29:05] [20] Normal operation
+[22-03-24 15:29:08] [21] Normal operation
+[22-03-24 15:29:11] [22] Normal operation
+[22-03-24 15:29:14] [23] Normal operation
+[22-03-24 15:29:17] [24] Normal operation
+[22-03-24 15:29:20] [25] Normal operation
+[22-03-24 15:29:23] [26] Normal operation
+[22-03-24 15:29:26] [27] Normal operation
+[22-03-24 15:29:29] [28] Normal operation
+[22-03-24 15:29:32] [29] Normal operation
+[22-03-24 15:29:35] [30] Normal operation
+
+[22-03-24 15:29:38] viewMemory.sh End.
+
+##############################################################
+
+##############################################################
+
+[22-03-24 15:30:13] viewMemory.sh started.
+
+[22-03-24 15:30:13] [1] using 32% Excess
+[22-03-24 15:30:16] [2] using 32% Excess
+[22-03-24 15:30:19] [3] using 32% Excess
+[22-03-24 15:30:22] [4] using 32% Excess
+[22-03-24 15:30:25] [5] using 32% Excess
+[22-03-24 15:30:28] [6] using 32% Excess
+[22-03-24 15:30:31] [7] using 32% Excess
+[22-03-24 15:30:34] [8] using 32% Excess
+[22-03-24 15:30:37] [9] using 32% Excess
+[22-03-24 15:30:40] [10] using 32% Excess
+[22-03-24 15:30:43] [11] using 32% Excess
+[22-03-24 15:30:46] [12] Normal operation
+[22-03-24 15:30:49] [13] Normal operation
+[22-03-24 15:30:52] [14] Normal operation
+[22-03-24 15:30:55] [15] Normal operation
+[22-03-24 15:30:58] [16] Normal operation
+[22-03-24 15:31:01] [17] Normal operation
+[22-03-24 15:31:04] [18] Normal operation
+[22-03-24 15:31:07] [19] Normal operation
+[22-03-24 15:31:10] [20] Normal operation
+[22-03-24 15:31:13] [21] Normal operation
+[22-03-24 15:31:16] [22] Normal operation
+[22-03-24 15:31:20] [23] Normal operation
+[22-03-24 15:31:23] [24] Normal operation
+[22-03-24 15:31:26] [25] Normal operation
+[22-03-24 15:31:29] [26] Normal operation
+[22-03-24 15:31:32] [27] Normal operation
+[22-03-24 15:31:35] [28] Normal operation
+[22-03-24 15:31:38] [29] Normal operation
+[22-03-24 15:31:41] [30] Normal operation
+
+[22-03-24 15:31:44] viewMemory.sh End.
+
+##############################################################
+
+##############################################################
+
+[22-03-24 15:39:33] viewMemory.sh started.
+
+[22-03-24 15:39:33] [1] Normal operation
+[22-03-24 15:39:34] [2] Normal operation
+[22-03-24 15:39:35] [3] Normal operation
+[22-03-24 15:39:36] [4] Normal operation
+[22-03-24 15:39:37] [5] Normal operation
+[22-03-24 15:39:38] [6] Normal operation
+[22-03-24 15:39:39] [7] Normal operation
+[22-03-24 15:39:40] [8] Normal operation
+[22-03-24 15:39:41] [9] Normal operation
+[22-03-24 15:39:42] [10] Normal operation
+[22-03-24 15:39:43] [11] Normal operation
+[22-03-24 15:39:44] [12] Normal operation
+[22-03-24 15:39:45] [13] Normal operation
+[22-03-24 15:39:46] [14] Normal operation
+[22-03-24 15:39:47] [15] Normal operation
+[22-03-24 15:39:48] [16] Normal operation
+[22-03-24 15:39:50] [17] Normal operation
+[22-03-24 15:39:51] [18] Normal operation
+[22-03-24 15:39:52] [19] Normal operation
+[22-03-24 15:39:53] [20] Normal operation
+[22-03-24 15:39:54] [21] Normal operation
+[22-03-24 15:39:55] [22] Normal operation
+[22-03-24 15:39:56] [23] Normal operation
+[22-03-24 15:39:57] [24] Normal operation
+[22-03-24 15:39:58] [25] Normal operation
+[22-03-24 15:39:59] [26] Normal operation
+[22-03-24 15:40:00] [27] Normal operation
+[22-03-24 15:40:01] [28] Normal operation
+[22-03-24 15:40:02] [29] Normal operation
+[22-03-24 15:40:03] [30] Normal operation
+
+[22-03-24 15:40:04] viewMemory.sh End.
+
+##############################################################
