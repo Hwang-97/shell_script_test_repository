@@ -1,7 +1,7 @@
 #파라미터 지정이 필요
 
  
-
+ 
 
 #total        used        free      shared  buff/cache   available
 NOW=$(date +"%y-%m-%d %T")
